@@ -1,0 +1,34 @@
+survivor_friendly_fire_factor_easy "0"
+survivor_friendly_fire_factor_expert "0"
+survivor_friendly_fire_factor_hard "0"
+survivor_friendly_fire_factor_normal "0"
+survivor_burn_factor_easy "0"
+survivor_burn_factor_expert "0" 
+survivor_burn_factor_hard "0" 
+survivor_burn_factor_normal "0"
+
+allow_all_bot_survivor_team 1
+
+ammo_m60_max 450
+
+
+z_spitter_limit 10
+z_hunter_limit 10
+z_boomer_limit 10
+z_jockey_limit 10
+z_charger_limit 10
+z_smoker_limit 10
+
+director_special_battlefield_respawn_interval 1.0
+director_special_finale_offer_length 1.0
+director_special_initial_spawn_delay_max 6.0
+director_special_initial_spawn_delay_max_extra 18.0
+director_special_initial_spawn_delay_min 3.0
+director_special_original_offer_length 3.0
+director_special_respawn_interval 4.5
+
+z_director_special_spawn_delay 1.0
+
+z_special_spawn_interval 4.5
+
+

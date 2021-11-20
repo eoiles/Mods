@@ -1,0 +1,8 @@
+{
+    "name": "Co-op Revive",
+    "description": "Lets you revive dead players in a Castle Crashers fashion.\r\nUse flag coop_revive_items to enable revive-related items.",
+	"internalname": "cooprevive",
+    "version": "1.0.1",
+    "author": "TheMysticSword",
+    "mpcompat": true
+}

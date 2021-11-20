@@ -1,0 +1,14 @@
+{
+	"Name" : "中文(简体)",
+	"LCID" : 2052,
+	"Group":{
+		"Dictionary" : {
+			"SearchMod":"文件搜索",
+			"IgnoreMod" : "忽略模型",
+			"LockFile":"占用文件",
+			"UseDictionary" : "使用辞典",
+			"AddNPK":"加入NPK",
+			"AddIgnore":"加入忽略列表"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	'Name' : 'English'	
+	'LCID' : 1033
+	'Group':{
+		'Dictionary' : {
+			'CleanMod':'Clean Mod'
+			'CleanMode' : 'Clean Mode'		
+			'SimpleClean' : 'Simple Clean Up'		
+			'DepthClean' : 'In-Depth Clean Up'		
+			'Clean' : 'Clean'		
+		}
+	}
+}

@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="d00">
+        <Key name="38">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="33">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="31">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="29">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="16">
+            <Value string="1 36"/>
+        </Key>
+        <Key name="14">
+            <Value string="1 43"/>
+        </Key>
+        <Key name="4">
+            <Value string="2 11"/>
+        </Key>
+        <Key name="28">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="25">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="n">
+            <Value string="Terran Deck"/>
+        </Key>
+        <Key name="30">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="9">
+            <Value string="2 22"/>
+        </Key>
+        <Key name="19">
+            <Value string="2 26"/>
+        </Key>
+        <Key name="6">
+            <Value string="2 12"/>
+        </Key>
+        <Key name="1">
+            <Value string="2 10"/>
+        </Key>
+        <Key name="39">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="3">
+            <Value string="2 17"/>
+        </Key>
+        <Key name="27">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="26">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="35">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="20">
+            <Value string="2 23"/>
+        </Key>
+        <Key name="8">
+            <Value string="2 1"/>
+        </Key>
+        <Key name="0">
+            <Value string="1 32"/>
+        </Key>
+        <Key name="10">
+            <Value string="2 16"/>
+        </Key>
+        <Key name="2">
+            <Value string="2 0"/>
+        </Key>
+        <Key name="23">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="21">
+            <Value string="1 44"/>
+        </Key>
+        <Key name="11">
+            <Value string="2 20"/>
+        </Key>
+        <Key name="37">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="32">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="15">
+            <Value string="2 18"/>
+        </Key>
+        <Key name="7">
+            <Value string="2 15"/>
+        </Key>
+        <Key name="36">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="34">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="24">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="22">
+            <Value string="1 38"/>
+        </Key>
+        <Key name="17">
+            <Value string="2 31"/>
+        </Key>
+        <Key name="13">
+            <Value string="2 3"/>
+        </Key>
+        <Key name="12">
+            <Value string="2 33"/>
+        </Key>
+        <Key name="18">
+            <Value string="2 8"/>
+        </Key>
+        <Key name="5">
+            <Value string="1 25"/>
+        </Key>
+    </Section>
+    <Section name="d20">
+        <Key name="38">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="33">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="31">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="29">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="16">
+            <Value string="2 126"/>
+        </Key>
+        <Key name="14">
+            <Value string="1 127"/>
+        </Key>
+        <Key name="4">
+            <Value string="2 107"/>
+        </Key>
+        <Key name="28">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="25">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="n">
+            <Value string="Protoss Deck"/>
+        </Key>
+        <Key name="30">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="9">
+            <Value string="2 123"/>
+        </Key>
+        <Key name="19">
+            <Value string="2 105"/>
+        </Key>
+        <Key name="6">
+            <Value string="2 101"/>
+        </Key>
+        <Key name="1">
+            <Value string="2 116"/>
+        </Key>
+        <Key name="39">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="3">
+            <Value string="2 108"/>
+        </Key>
+        <Key name="27">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="26">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="35">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="20">
+            <Value string="1 140"/>
+        </Key>
+        <Key name="8">
+            <Value string="2 134"/>
+        </Key>
+        <Key name="0">
+            <Value string="2 100"/>
+        </Key>
+        <Key name="10">
+            <Value string="2 114"/>
+        </Key>
+        <Key name="2">
+            <Value string="2 111"/>
+        </Key>
+        <Key name="23">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="21">
+            <Value string="1 138"/>
+        </Key>
+        <Key name="11">
+            <Value string="2 115"/>
+        </Key>
+        <Key name="37">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="32">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="15">
+            <Value string="2 128"/>
+        </Key>
+        <Key name="7">
+            <Value string="1 124"/>
+        </Key>
+        <Key name="36">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="34">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="24">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="22">
+            <Value string="1 144"/>
+        </Key>
+        <Key name="17">
+            <Value string="2 104"/>
+        </Key>
+        <Key name="13">
+            <Value string="2 120"/>
+        </Key>
+        <Key name="12">
+            <Value string="1 139"/>
+        </Key>
+        <Key name="18">
+            <Value string="2 122"/>
+        </Key>
+        <Key name="5">
+            <Value string="2 110"/>
+        </Key>
+    </Section>
+    <Section name="c">
+        <Key name="pe">
+            <Value int="-1"/>
+        </Key>
+        <Key name="te">
+            <Value int="-1"/>
+        </Key>
+        <Key name="d">
+            <Value string="000"/>
+        </Key>
+        <Key name="t">
+            <Value string="000000000000000000"/>
+        </Key>
+        <Key name="p">
+            <Value string="0000"/>
+        </Key>
+        <Key name="pid">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="bankinfo">
+        <Key name="timestamp">
+            <Value string="Wednesday, January 27, 2021, 4:40:4 AM"/>
+        </Key>
+    </Section>
+    <Section name="s">
+        <Key name="11lr">
+            <Value int="0"/>
+        </Key>
+        <Key name="hkr2">
+            <Value int="0"/>
+        </Key>
+        <Key name="ucr1">
+            <Value int="0"/>
+        </Key>
+        <Key name="22s">
+            <Value int="125"/>
+        </Key>
+        <Key name="10s">
+            <Value int="125"/>
+        </Key>
+        <Key name="10wr">
+            <Value int="0"/>
+        </Key>
+        <Key name="00a">
+            <Value int="450"/>
+        </Key>
+        <Key name="dda2">
+            <Value int="0"/>
+        </Key>
+        <Key name="sc0">
+            <Value int="0"/>
+        </Key>
+        <Key name="dda0">
+            <Value int="0"/>
+        </Key>
+        <Key name="uc1">
+            <Value int="0"/>
+        </Key>
+        <Key name="01a">
+            <Value int="500"/>
+        </Key>
+        <Key name="dra2">
+            <Value int="0"/>
+        </Key>
+        <Key name="13l">
+            <Value int="0"/>
+        </Key>
+        <Key name="00w">
+            <Value int="0"/>
+        </Key>
+        <Key name="20qr">
+            <Value int="0"/>
+        </Key>
+        <Key name="03lr">
+            <Value int="0"/>
+        </Key>
+        <Key name="ucr2">
+            <Value int="0"/>
+        </Key>
+        <Key name="02q">
+            <Value int="0"/>
+        </Key>
+        <Key name="21lr">
+            <Value int="0"/>
+        </Key>
+        <Key name="00wr">
+            <Value int="0"/>
+        </Key>
+        <Key name="hcr1">
+            <Value int="0"/>
+        </Key>
+        <Key name="11w">
+            <Value int="0"/>
+        </Key>
+        <Key name="uk0">
+            <Value int="0"/>
+        </Key>
+        <Key name="11s">
+            <Value int="125"/>
+        </Key>
+        <Key name="11l">
+            <Value int="0"/>
+        </Key>
+        <Key name="00q">
+            <Value int="2"/>
+        </Key>
+        <Key name="scr0">
+            <Value int="0"/>
+        </Key>
+        <Key name="12l">
+            <Value int="0"/>
+        </Key>
+        <Key name="22lr">
+            <Value int="0"/>
+        </Key>
+        <Key name="11qr">
+            <Value int="0"/>
+        </Key>
+        <Key name="22a">
+            <Value int="500"/>
+        </Key>
+        <Key name="dda1">
+            <Value int="0"/>
+        </Key>
+        <Key name="23q">
+            <Value int="0"/>
+        </Key>
+        <Key name="23wr">
+            <Value int="0"/>
+        </Key>
+        <Key name="drr1">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="10a">
+            <Value int="500"/>
+        </Key>
+        <Key name="hc1">
+            <Value int="0"/>
+        </Key>
+        <Key name="22wr">
+            <Value int="0"/>
+        </Key>
+        <Key name="skr1">
+            <Value int="0"/>
+        </Key>
+        <Key name="02l">
+            <Value int="0"/>
+        </Key>
+        <Key name="hkr1">
+            <Value int="0"/>
+        </Key>
+        <Key name="ddr1">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="sc2">
+            <Value int="0"/>
+        </Key>
+        <Key name="hk1">
+            <Value int="0"/>
+        </Key>
+        <Key name="01qr">
+            <Value int="0"/>
+        </Key>
+        <Key name="hcr2">
+            <Value int="0"/>
+        </Key>
+        <Key name="hcr0">
+            <Value int="0"/>
+        </Key>
+        <Key name="11a">
+            <Value int="500"/>
+        </Key>
+        <Key name="01q">
+            <Value int="0"/>
+        </Key>
+        <Key name="20wr">
+            <Value int="0"/>
+        </Key>
+        <Key name="12lr">
+            <Value int="0"/>
+        </Key>
+        <Key name="hkr0">
+            <Value int="0"/>
+        </Key>
+        <Key name="02a">
+            <Value int="500"/>
+        </Key>
+        <Key name="sk1">
+            <Value int="0"/>
+        </Key>
+        <Key name="uc0">
+            <Value int="0"/>
+        </Key>
+        <Key name="23lr">
+            <Value int="0"/>
+        </Key>
+        <Key name="10lr">
+            <Value int="0"/>
+        </Key>
+        <Key name="20a">
+            <Value int="475"/>
+        </Key>
+        <Key name="hk2">
+            <Value int="0"/>
+        </Key>
+        <Key name="23l">
+            <Value int="0"/>
+        </Key>
+        <Key name="22q">
+            <Value int="0"/>
+        </Key>
+        <Key name="20q">
+            <Value int="1"/>
+        </Key>
+        <Key name="20w">
+            <Value int="0"/>
+        </Key>
+        <Key name="ukr1">
+            <Value int="0"/>
+        </Key>
+        <Key name="drr0">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="12a">
+            <Value int="500"/>
+        </Key>
+        <Key name="hc2">
+            <Value int="0"/>
+        </Key>
+        <Key name="hc0">
+            <Value int="0"/>
+        </Key>
+        <Key name="22w">
+            <Value int="0"/>
+        </Key>
+        <Key name="12w">
+            <Value int="0"/>
+        </Key>
+        <Key name="11q">
+            <Value int="0"/>
+        </Key>
+        <Key name="10q">
+            <Value int="0"/>
+        </Key>
+        <Key name="03wr">
+            <Value int="0"/>
+        </Key>
+        <Key name="00qr">
+            <Value int="0"/>
+        </Key>
+        <Key name="scr2">
+            <Value int="0"/>
+        </Key>
+        <Key name="dra0">
+            <Value int="0"/>
+        </Key>
+        <Key name="21l">
+            <Value int="0"/>
+        </Key>
+        <Key name="03qr">
+            <Value int="0"/>
+        </Key>
+        <Key name="sk2">
+            <Value int="0"/>
+        </Key>
+        <Key name="uk2">
+            <Value int="0"/>
+        </Key>
+        <Key name="20l">
+            <Value int="0"/>
+        </Key>
+        <Key name="03l">
+            <Value int="0"/>
+        </Key>
+        <Key name="01s">
+            <Value int="125"/>
+        </Key>
+        <Key name="uc2">
+            <Value int="0"/>
+        </Key>
+        <Key name="22l">
+            <Value int="0"/>
+        </Key>
+        <Key name="01w">
+            <Value int="0"/>
+        </Key>
+        <Key name="21wr">
+            <Value int="0"/>
+        </Key>
+        <Key name="skr2">
+            <Value int="0"/>
+        </Key>
+        <Key name="21s">
+            <Value int="125"/>
+        </Key>
+        <Key name="21a">
+            <Value int="500"/>
+        </Key>
+        <Key name="23w">
+            <Value int="0"/>
+        </Key>
+        <Key name="23qr">
+            <Value int="0"/>
+        </Key>
+        <Key name="20s">
+            <Value int="125"/>
+        </Key>
+        <Key name="12s">
+            <Value int="125"/>
+        </Key>
+        <Key name="sc1">
+            <Value int="0"/>
+        </Key>
+        <Key name="21q">
+            <Value int="0"/>
+        </Key>
+        <Key name="03q">
+            <Value int="0"/>
+        </Key>
+        <Key name="00s">
+            <Value int="125"/>
+        </Key>
+        <Key name="21w">
+            <Value int="0"/>
+        </Key>
+        <Key name="13qr">
+            <Value int="0"/>
+        </Key>
+        <Key name="rid">
+            <Value int="2"/>
+        </Key>
+        <Key name="02s">
+            <Value int="125"/>
+        </Key>
+        <Key name="uk1">
+            <Value int="0"/>
+        </Key>
+        <Key name="skr0">
+            <Value int="0"/>
+        </Key>
+        <Key name="10l">
+            <Value int="0"/>
+        </Key>
+        <Key name="03w">
+            <Value int="0"/>
+        </Key>
+        <Key name="12qr">
+            <Value int="0"/>
+        </Key>
+        <Key name="00lr">
+            <Value int="0"/>
+        </Key>
+        <Key name="ddr2">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="scr1">
+            <Value int="0"/>
+        </Key>
+        <Key name="ucr0">
+            <Value int="0"/>
+        </Key>
+        <Key name="ddr0">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="hk0">
+            <Value int="0"/>
+        </Key>
+        <Key name="13q">
+            <Value int="0"/>
+        </Key>
+        <Key name="13w">
+            <Value int="0"/>
+        </Key>
+        <Key name="22qr">
+            <Value int="0"/>
+        </Key>
+        <Key name="13lr">
+            <Value int="0"/>
+        </Key>
+        <Key name="12wr">
+            <Value int="0"/>
+        </Key>
+        <Key name="11wr">
+            <Value int="0"/>
+        </Key>
+        <Key name="02qr">
+            <Value int="0"/>
+        </Key>
+        <Key name="drr2">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="10w">
+            <Value int="0"/>
+        </Key>
+        <Key name="02w">
+            <Value int="0"/>
+        </Key>
+        <Key name="02lr">
+            <Value int="0"/>
+        </Key>
+        <Key name="01lr">
+            <Value int="0"/>
+        </Key>
+        <Key name="01wr">
+            <Value int="0"/>
+        </Key>
+        <Key name="sk0">
+            <Value int="0"/>
+        </Key>
+        <Key name="21qr">
+            <Value int="0"/>
+        </Key>
+        <Key name="13wr">
+            <Value int="0"/>
+        </Key>
+        <Key name="01l">
+            <Value int="0"/>
+        </Key>
+        <Key name="00l">
+            <Value int="0"/>
+        </Key>
+        <Key name="dra1">
+            <Value int="0"/>
+        </Key>
+        <Key name="12q">
+            <Value int="0"/>
+        </Key>
+        <Key name="10qr">
+            <Value int="0"/>
+        </Key>
+        <Key name="02wr">
+            <Value int="0"/>
+        </Key>
+        <Key name="20lr">
+            <Value int="0"/>
+        </Key>
+        <Key name="ukr2">
+            <Value int="0"/>
+        </Key>
+        <Key name="ukr0">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="d10">
+        <Key name="38">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="33">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="31">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="29">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="16">
+            <Value string="2 60"/>
+        </Key>
+        <Key name="14">
+            <Value string="2 72"/>
+        </Key>
+        <Key name="4">
+            <Value string="1 70"/>
+        </Key>
+        <Key name="28">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="25">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="n">
+            <Value string="Zerg Deck"/>
+        </Key>
+        <Key name="30">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="9">
+            <Value string="2 52"/>
+        </Key>
+        <Key name="19">
+            <Value string="1 88"/>
+        </Key>
+        <Key name="6">
+            <Value string="2 67"/>
+        </Key>
+        <Key name="1">
+            <Value string="2 76"/>
+        </Key>
+        <Key name="39">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="3">
+            <Value string="2 66"/>
+        </Key>
+        <Key name="27">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="26">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="35">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="20">
+            <Value string="2 74"/>
+        </Key>
+        <Key name="8">
+            <Value string="2 64"/>
+        </Key>
+        <Key name="0">
+            <Value string="2 77"/>
+        </Key>
+        <Key name="10">
+            <Value string="2 75"/>
+        </Key>
+        <Key name="2">
+            <Value string="2 62"/>
+        </Key>
+        <Key name="23">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="21">
+            <Value string="2 71"/>
+        </Key>
+        <Key name="11">
+            <Value string="2 58"/>
+        </Key>
+        <Key name="37">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="32">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="15">
+            <Value string="1 95"/>
+        </Key>
+        <Key name="7">
+            <Value string="2 56"/>
+        </Key>
+        <Key name="36">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="34">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="24">
+            <Value string="0 -1"/>
+        </Key>
+        <Key name="22">
+            <Value string="1 91"/>
+        </Key>
+        <Key name="17">
+            <Value string="1 90"/>
+        </Key>
+        <Key name="13">
+            <Value string="1 82"/>
+        </Key>
+        <Key name="12">
+            <Value string="2 53"/>
+        </Key>
+        <Key name="18">
+            <Value string="2 55"/>
+        </Key>
+        <Key name="5">
+            <Value string="2 50"/>
+        </Key>
+    </Section>
+    <Signature value="BC422F3A510EBE34ADE0E188F1C2D3C3BAB49D5E"/>
+</Bank>

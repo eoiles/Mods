@@ -1,0 +1,14 @@
+﻿	{
+	'Name' : '中文(简体)'	
+	'LCID' : 2052
+	'Group':{
+		"Dictionary":{
+			"SelectServer":"选择服务器",
+			"FileDownload":"文件下载",
+			"ReplaceFromServer":"替换为服务器资源",
+			"NetError":"网络异常",
+			"LoadServerError":"加载服务器列表失败"
+		}
+	  }
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"BuildPattern" : "!Nightnai([transfer][part])",
+	"Version" : "1.7.3.2",
+	"GamePath" : "D:\\DNF",
+	"ResourcePath" : "D:\\DNF\\ImagePacks2",
+	"UnCanvasImageSpriteConverter" : False,
+	"DyeSpriteConverter" : False,
+	"AutoChangePosition" : False,
+	"Brush" : "MoveTool",
+	"BrushColor" : "0,0,0,0",
+	"Dye" : False,
+	"Grid" : False,
+	"RootPath" : "C:\\Users\\stary\\Desktop\\DNF SKIN\\ExtractorSharp",
+	"ReplaceToSkin" : True,
+	"OutputDirectory" : "C:\\Users\\stary\\Desktop",
+	"FullDress" : False,
+	"BuildMask" : True,
+	"CompletedExporler" : False,
+	"CompletedOpenFile" : False
+}

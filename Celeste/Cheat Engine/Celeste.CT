@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="00000000" RealAddress="2A1BEAD4"/>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"THREADSTACK0"-00000FD0</Address>
+      <Offsets>
+        <Offset>E8</Offset>
+        <Offset>4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"max jump"</Description>
+      <LastState Value="99" RealAddress="0EBDA204"/>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>Byte</VariableType>
+      <Address>Celeste.Player::get_MaxDashes+24 </Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"unlock jump"</Description>
+      <LastState Value="0A74" RealAddress="0EBDA1F5"/>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>2 Bytes</VariableType>
+      <Address>Celeste.Player::get_MaxDashes+15 </Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>192</Key>
+          </Keys>
+          <Value>0A74</Value>
+          <ID>0</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"infinite stamina1"</Description>
+      <LastState Value="99999" RealAddress="0E5A0805"/>
+      <VariableType>Float</VariableType>
+      <Address>Celeste.Player::Update+7c5</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>192</Key>
+          </Keys>
+          <Value>99999</Value>
+          <ID>0</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>29</ID>
+      <Description>"infinitestamina2"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>25</ID>
+          <Description>"climb update1"</Description>
+          <LastState Value="90 90 90 90 90 90" RealAddress="0D669E6A"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>6</ByteLength>
+          <Address>Celeste.Player::ClimbUpdate+9DA </Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>909090909090</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>26</ID>
+          <Description>"climb update2"</Description>
+          <LastState Value="90 90 90 90 90 90" RealAddress="0D669DC0"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>6</ByteLength>
+          <Address>Celeste.Player::ClimbUpdate+930 </Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>909090909090</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"climbjump"</Description>
+          <LastState Value="90 90 90 90 90 90" RealAddress="0D66B1D6"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>6</ByteLength>
+          <Address>Celeste.Player::ClimbJump+36 </Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>909090909090</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>28</ID>
+          <Description>"PlayerUpdate"</Description>
+          <LastState Value="90 90 90 90 90 90" RealAddress="0E5A07A8"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>6</ByteLength>
+          <Address>Celeste.Player::Update+768 </Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>909090909090</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"infinitestaminaabaddoned"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>11</ID>
+          <Description>"infinitestamina on wall"</Description>
+          <LastState Value="9999" RealAddress="0D6694D2"/>
+          <VariableType>Float</VariableType>
+          <Address>Celeste.Player::ClimbUpdate+42</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>9999</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description>"infinitestamina on bounce"</Description>
+          <VariableType>Float</VariableType>
+          <Address>Celeste.Player::SuperBounce+77</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>9999</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>15</ID>
+          <Description>"infinitestamina on crystal"</Description>
+          <VariableType>Float</VariableType>
+          <Address>Celeste.Player::UseRefill+47</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>9999</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"infinitestamina on boost"</Description>
+          <VariableType>Float</VariableType>
+          <Address>&lt;BoostRoutine&gt;d__22::MoveNext+3D3 </Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>9999</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>16</ID>
+          <Description>"infinitestamina on boost launch"</Description>
+          <VariableType>Float</VariableType>
+          <Address>Celeste.Player::BadelineBoostLaunch+8c</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>9999</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"jelly begin"</Description>
+          <VariableType>Float</VariableType>
+          <Address>Celeste.Player::DreamDashBegin+a9</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>9999</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"jelly end"</Description>
+          <VariableType>Float</VariableType>
+          <Address>Celeste.Player::DreamDashEnd+5b </Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>9999</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description>"boostbeginnoend"</Description>
+          <VariableType>Float</VariableType>
+          <Address>Celeste.Player::BoostBegin+13</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>9999</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"flystart"</Description>
+          <VariableType>Float</VariableType>
+          <Address>Celeste.Player::StartStarFly+9</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>9999</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>23</ID>
+          <Description>"movenext"</Description>
+          <VariableType>Float</VariableType>
+          <Address>&lt;StarFlyCoroutine&gt;d__509::MoveNext+21e</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>192</Key>
+              </Keys>
+              <Value>9999</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"No description"</Description>
+      <LastState Value="99999" RealAddress="4DDD5C18"/>
+      <VariableType>Float</VariableType>
+      <Address>4DDD5C18</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry Color="20000000" GroupHeader="1">
+      <Description>Group 0</Description>
+    </CodeEntry>
+    <CodeEntry Color="80000008">
+      <Description>Change of fstp dword ptr [ebx+000000EC]</Description>
+      <AddressString>0D669E6A</AddressString>
+      <Before>
+        <Byte>9F</Byte>
+        <Byte>66</Byte>
+        <Byte>0D</Byte>
+        <Byte>DE</Byte>
+        <Byte>E9</Byte>
+      </Before>
+      <Actual>
+        <Byte>D9</Byte>
+        <Byte>9B</Byte>
+        <Byte>EC</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>80</Byte>
+        <Byte>BB</Byte>
+        <Byte>CD</Byte>
+        <Byte>01</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+</CheatTable>

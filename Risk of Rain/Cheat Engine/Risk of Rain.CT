@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"sk1"</Description>
+      <LastState Value="Nan" RealAddress="1D1D4700"/>
+      <VariableType>Double</VariableType>
+      <Address>[["Risk of Rain.exe"+5AE468]]</Address>
+      <Offsets>
+        <Offset>C8</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Toggle Activation Allow Decrease</Action>
+          <Keys>
+            <Key>192</Key>
+          </Keys>
+          <ID>0</ID>
+          <ActivateSound>Activate</ActivateSound>
+          <DeactivateSound>Deactivate</DeactivateSound>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"sk2"</Description>
+      <LastState Value="Nan" RealAddress="1D1D4704"/>
+      <VariableType>Double</VariableType>
+      <Address>[["Risk of Rain.exe"+5AE468]]</Address>
+      <Offsets>
+        <Offset>cc</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Toggle Activation Allow Decrease</Action>
+          <Keys>
+            <Key>192</Key>
+          </Keys>
+          <ID>0</ID>
+          <ActivateSound>Activate</ActivateSound>
+          <DeactivateSound>Deactivate</DeactivateSound>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"sk3"</Description>
+      <LastState Value="Nan" RealAddress="1D1D4708"/>
+      <VariableType>Double</VariableType>
+      <Address>[["Risk of Rain.exe"+5AE468]]</Address>
+      <Offsets>
+        <Offset>D0</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Toggle Activation Allow Decrease</Action>
+          <Keys>
+            <Key>192</Key>
+          </Keys>
+          <ID>0</ID>
+          <ActivateSound>Activate</ActivateSound>
+          <DeactivateSound>Deactivate</DeactivateSound>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"sk4"</Description>
+      <LastState Value="Nan" RealAddress="1D1D46F4"/>
+      <VariableType>Double</VariableType>
+      <Address>[["Risk of Rain.exe"+5AE468]]</Address>
+      <Offsets>
+        <Offset>bc</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Toggle Activation Allow Decrease</Action>
+          <Keys>
+            <Key>16</Key>
+            <Key>192</Key>
+          </Keys>
+          <ID>0</ID>
+          <ActivateSound>Activate</ActivateSound>
+          <DeactivateSound>Deactivate</DeactivateSound>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+  <LuaScript>
+</LuaScript>
+</CheatTable>

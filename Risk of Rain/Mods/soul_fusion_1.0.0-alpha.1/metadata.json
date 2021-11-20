@@ -1,0 +1,8 @@
+{
+    "name": "Soul Fusion",
+    "description": "All items are shared by all players, but if one of them dies, everyone die.",
+	"internalname": "soulfusion",
+    "version": "1.0.0-alpha1",
+    "author": "Oizo",
+    "mpcompat": true,
+}

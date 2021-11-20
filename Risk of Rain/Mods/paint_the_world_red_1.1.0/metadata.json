@@ -1,0 +1,8 @@
+{
+    "name": "Paint the World Red",
+    "description": "Adds an artifact that turns all items into reds.",
+    "internalname": "RedWorld",
+    "version": "1.1",
+    "author": "Moisty Boi",
+	"mpcompat": true,
+}

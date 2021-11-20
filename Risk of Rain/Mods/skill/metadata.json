@@ -1,0 +1,8 @@
+{
+    "name": "Skill",
+    "description": "Commando no cd.",
+	"internalname": "Skill",
+    "version": "0.0.1",
+    "author": "eo",
+    "mpcompat": true,
+}

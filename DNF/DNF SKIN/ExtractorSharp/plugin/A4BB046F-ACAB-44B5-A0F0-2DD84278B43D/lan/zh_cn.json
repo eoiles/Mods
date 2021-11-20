@@ -1,0 +1,13 @@
+{
+	'Name' : '中文(简体)'	
+	'LCID' : 2052
+	'Group':{
+		'Dictionary' : {
+			'CleanMod':'文件清理'
+			'CleanMode' : '清理模式'		
+			'SimpleClean' : '简易清理'		
+			'DepthClean' : '深度清理'		
+			'Clean' : '清理'	
+		}
+	}
+}
